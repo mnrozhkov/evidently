@@ -1,5 +1,5 @@
 click
-evidently>=0.3.1
+evidently==0.3.1
 fastparquet==2023.2.0
 httpx==0.23.3
 pandas==1.5.3
